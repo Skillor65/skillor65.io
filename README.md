@@ -1,1 +1,1 @@
-# skillor65.io
+# skillor65.github.io
